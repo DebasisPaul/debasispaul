@@ -1,5 +1,6 @@
 ![Web capture_31-8-2021_111238_github com](https://user-images.githubusercontent.com/8848622/131446196-5e62f201-a2fe-4636-a57d-35675cd6b944.jpeg)
 <h1>Hey friends! 👋</h1>
+----------------------------------------------------------------------------
 
 - 🔭 I’m Debasis Paul
 - 🔭 I’m currently working on .Net
