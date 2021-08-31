@@ -1,7 +1,7 @@
 <h1>Hey friends! 👋</h1> Connect with me:
 
 - 🔭 I’m Debasis Paul
-- 🔭 🔭 I’m currently working on Tornament Tracker Application
+- 🔭 I’m currently working on <a href="https://github.com/DebasisPaul/TimCoreyTournamentTracker">Tournament Tracker Application</a>
 - 🌱 I’m currently learning .Net, C#, MSSQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
