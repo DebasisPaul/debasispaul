@@ -2,7 +2,7 @@
 - <h1>Hey friends! 👋</h1> 
 - 🔭 I’m Debasis Paul
 -  |||My Motivation & Teacher [Donald Knuth](https://cs.stanford.edu/~knuth/) https://en.wikipedia.org/wiki/Donald_Knuth
-- 🔭 I’m currently working on :
+- <h1>🔭 I’m currently working on :</h1>
 - <hr>
 - <h1>Teaching</h1>
 - [C# Fundamental Course](https://github.com/DebasisPaul/CsharpWithDebasisPaul)
@@ -11,6 +11,7 @@
 - [Tournament Tracker Application](https://github.com/DebasisPaul/TournamentTracker)
 - [Book List System](https://github.com/DebasisPaul/BookListMVC)
 - [Book List System](https://github.com/DebasisPaul/BookListRazor)
+- <hr>
 - 🌱 I’m currently learning Microsoft .Net & Azure Technology! #CSHARP #ASPNETCORE #AZURE #VS #BLAZOR #DOTNET 
 - 🤔 I’m on Twitter https://twitter.com/thedebasispaul
 - 📫 How to reach me: https://sites.google.com/view/debasispaul/
