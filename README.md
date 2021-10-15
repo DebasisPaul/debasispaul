@@ -1,9 +1,8 @@
 - ![PjsXl86x_f](https://user-images.githubusercontent.com/8848622/133393437-5b634d45-a202-4869-8860-63c004562b39.jpg)
 - <h1>Hey friends! 👋</h1> 
-- 🔭 I’m Debasis Paul
--  <h1>|||My Motivation & Teacher:</h1> [Donald Knuth](https://cs.stanford.edu/~knuth/)[WikiPedia](https://en.wikipedia.org/wiki/Donald_Knuth)
+- <h1>🔭 I’m Debasis Paul</h1>
+-  My Motivation & Teacher [Donald Knuth](https://cs.stanford.edu/~knuth/) [WikiPedia](https://en.wikipedia.org/wiki/Donald_Knuth)
 - <h1>🔭 I’m currently working on :</h1>
-- <hr>
 - <h1>Teaching</h1>
 - [C# Fundamental Course](https://github.com/DebasisPaul/CsharpWithDebasisPaul)
 - [ASPnetCore A2Z Course](https://github.com/DebasisPaul/ASPnetCoreWithDebasisPaul)
