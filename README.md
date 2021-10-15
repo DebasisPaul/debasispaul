@@ -3,10 +3,11 @@
 - 🔭 I’m Debasis Paul
 -  |||My Motivation & Teacher [Donald Knuth](https://cs.stanford.edu/~knuth/) https://en.wikipedia.org/wiki/Donald_Knuth
 - 🔭 I’m currently working on :
-- <b>Teaching</b>
+- <hr>
+- <h1>Teaching</h1>
 - [C# Fundamental Course](https://github.com/DebasisPaul/CsharpWithDebasisPaul)
 - [ASPnetCore A2Z Course](https://github.com/DebasisPaul/ASPnetCoreWithDebasisPaul)
-- <b>Projects</b>
+- <h1>Projects</h1>
 - [Tournament Tracker Application](https://github.com/DebasisPaul/TournamentTracker)
 - [Book List System](https://github.com/DebasisPaul/BookListMVC)
 - [Book List System](https://github.com/DebasisPaul/BookListRazor)
