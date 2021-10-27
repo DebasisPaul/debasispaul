@@ -16,7 +16,8 @@
 
 ---
 # Books
-* ASP.NET Core in Action
+* [ASP.NET Core in Action Andrew Lock](https://www.manning.com/books/asp-net-core-in-action-second-edition?query=asp.net#toc)
+
 ---
 - 🌱 I’m currently learning Microsoft [.Net](https://dotnet.microsoft.com/) & [Azure](https://azure.microsoft.com/en-us/)
 - 🤔 I’m on Twitter https://twitter.com/thedebasispaul
