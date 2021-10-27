@@ -15,6 +15,9 @@
 3. [Book List System](https://github.com/DebasisPaul/BookListRazor)
 
 ---
+# Books
+* ASP.NET Core in Action
+---
 - 🌱 I’m currently learning Microsoft [.Net](https://dotnet.microsoft.com/) & [Azure](https://azure.microsoft.com/en-us/)
 - 🤔 I’m on Twitter https://twitter.com/thedebasispaul
 - 📫 How to reach me: https://sites.google.com/view/debasispaul/
