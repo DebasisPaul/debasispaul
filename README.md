@@ -28,6 +28,13 @@
 * [Teach Yourself C++ (Teach Yourself (McGraw-Hill)) 3rd Edition](https://www.amazon.com/gp/product/0078823927/ref=dbs_a_def_rwt_bibl_vppi_i28)
 * [Java How to Program, 11/e, Early Objects](https://deitel.com/java-how-to-program-11-e-early-objects-version/)
 
+# Best Book Publications For Computer Science & Engineering
+` https://www.oreilly.com/`
+` https://subscription.packtpub.com/`
+` https://www.manning.com/`
+` https://www.murach.com/`
+` https://www.microsoftpressstore.com/`
+
 ---
 - 🌱 I’m currently learning Microsoft [.Net](https://dotnet.microsoft.com/) & [Azure](https://azure.microsoft.com/en-us/)
 - 🤔 I’m on Twitter https://twitter.com/thedebasispaul
