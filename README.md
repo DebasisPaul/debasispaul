@@ -18,6 +18,10 @@
 # BookReadingClub
 `November Reading List`
 * [ASP.NET Core in Action Andrew Lock](https://www.manning.com/books/asp-net-core-in-action-second-edition?query=asp.net#toc)
+* [Introduction to Algorithms, Third Edition](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
+* [Discrete Mathematics and Its Applications 8th Edition](https://www.goodreads.com/book/show/1800803.Discrete_Mathematics_and_Its_Applications)
+* [Teach Yourself C++ (Teach Yourself (McGraw-Hill)) 3rd Edition](https://www.amazon.com/gp/product/0078823927/ref=dbs_a_def_rwt_bibl_vppi_i28)
+* [Java How to Program, 11/e, Early Objects](https://deitel.com/java-how-to-program-11-e-early-objects-version/)
 
 ---
 - 🌱 I’m currently learning Microsoft [.Net](https://dotnet.microsoft.com/) & [Azure](https://azure.microsoft.com/en-us/)
