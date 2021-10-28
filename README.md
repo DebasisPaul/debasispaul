@@ -15,7 +15,8 @@
 3. [Book List System](https://github.com/DebasisPaul/BookListRazor)
 
 ---
-# Books
+# BookReadingClub
+`November Reading List`
 * [ASP.NET Core in Action Andrew Lock](https://www.manning.com/books/asp-net-core-in-action-second-edition?query=asp.net#toc)
 
 ---
