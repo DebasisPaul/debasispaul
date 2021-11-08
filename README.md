@@ -1,6 +1,6 @@
 ![PjsXl86x_f](https://user-images.githubusercontent.com/8848622/133393437-5b634d45-a202-4869-8860-63c004562b39.jpg)
 # Hey friends! 👋  🔭 I’m [Debasis Paul](https://sites.google.com/view/debasispaul/home)
-# My Motivation & Teacher [Donald Knuth](https://cs.stanford.edu/~knuth/) [WikiPedia](https://en.wikipedia.org/wiki/Donald_Knuth)
+* `My Motivation & Teacher [Donald Knuth](https://cs.stanford.edu/~knuth/) [WikiPedia](https://en.wikipedia.org/wiki/Donald_Knuth)`
 # 🔭 I’m currently working on :
 # Teaching
 1. [C# Fundamental Course](https://github.com/DebasisPaul/CsharpWithDebasisPaul)
