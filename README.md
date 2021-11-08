@@ -5,11 +5,11 @@
 # Teaching
 1. [C# Fundamental Course](https://github.com/DebasisPaul/CsharpWithDebasisPaul)
 2. [ASPnetCore A2Z Course](https://github.com/DebasisPaul/ASPnetCoreWithDebasisPaul)
----
 # Projects
 1. [Tournament Tracker Application](https://github.com/DebasisPaul/TournamentTracker)
 2. [Book List System](https://github.com/DebasisPaul/BookListMVC)
 3. [Book List System](https://github.com/DebasisPaul/BookListRazor)
+---
 ---
 - 🌱 I’m currently learning Microsoft [.Net](https://dotnet.microsoft.com/) & [Azure](https://azure.microsoft.com/en-us/)
 - 🤔 I’m on Twitter https://twitter.com/thedebasispaul
