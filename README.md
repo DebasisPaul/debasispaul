@@ -11,6 +11,7 @@
 3. [Book List System](https://github.com/DebasisPaul/BookListRazor)
 # Reading
 1. [ASP.NET Core in Action, Second Edition](https://bit.ly/3CRJVTC), [Github](https://bit.ly/3CUUZ2j), [AndrewLock Blog](https://bit.ly/3nV5Nt3)
+2. [The Magic of Thinking Big](https://amzn.to/3cO4nKe)
 ---
 ---
 - 🌱 I’m currently learning Microsoft [.Net](https://dotnet.microsoft.com/) & [Azure](https://azure.microsoft.com/en-us/)
