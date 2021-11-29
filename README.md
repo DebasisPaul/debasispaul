@@ -6,24 +6,36 @@ Hi! I'm Debasis Paul. You may know me as `D Paul`.
 Let's Connect
 -------------
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/rob_rich)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub" />](https://github.com/robrich/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" alt="Email" />](https://robrich.org/contact/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/erobrich/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/thedebasispaul)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub" />](https://github.com/debasispaul/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" alt="Email" />](https://debasispaul.github.io/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/debasispaul/)
 
 https://debasispaul.github.io/
 
 
 Stats
 -----
-
-<a href="https://github.com/robrich">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robrich&count_private=true&show_icons=true" />
+   <a href="http://twitter.com/thedebasispaul">
+    <img src="https://img.shields.io/twitter/follow/thedebasispaul?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/debasispaul?tab=followers">
+    <img src="https://img.shields.io/github/followers/debasispaul?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  </br>
+  </br>
+<a href="https://github.com/debasispaul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debasispaul&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/robrich">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robrich&count_private=true&show_icons=true&layout=compact" />
+</br>
+</br>
+<a href="https://github.com/debasispaul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasispaul&count_private=true&show_icons=true&layout=compact" />
 </a>
-
+</br>
+</br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debasispaul&theme=prussian" alt="debasispaul" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=debasispaul&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
 
 Accomplishments
 ---------------
@@ -50,6 +62,7 @@ Speaking
 --------
 
 Want me to speak at your conference or user group? [Contact me](https://robrich.org/contact/)
+
 Looking for a talk I did recently? [Browse the presentations](https://robrich.org/presentations/)
 
 ![PjsXl86x_f](https://user-images.githubusercontent.com/8848622/133393437-5b634d45-a202-4869-8860-63c004562b39.jpg)
