@@ -8,9 +8,6 @@ When I don't work with F#, I work with C# I dabble in different things in .NET s
 
 You can find a list below of what I'm currently focused on:
 - Building my ASP.NET Core knowledge from the ground up with the Book []().
-- Implementing an [automatic interests and schedule planner and match maker](https://github.com/Kavignon/FSharp-Mentorship-Automatic-Planner) for the F# Software Foundation Mentorship education program. Now moving from a CLI tool to a web application.
-- Learning about the Git internals and Ruby through the book [Building Git](https://shop.jcoglan.com/building-git/)
-- Exploring Ruby on Rails and React through a [mocked implementation of Twitter](https://github.com/Kavignon/Hermes).
 - I write posts on [my technical blog](https://debasispaul.github.io/) from time to time.
 
 Let's Connect
