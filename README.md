@@ -8,17 +8,17 @@ When I don't work with F#, I work with C# I dabble in different things in .NET s
 
 You can find a list below of what I'm currently focused on:
 - Building my ASP.NET Core knowledge from the ground up with the Book []().
-- I write posts on [my technical blog](https://debasispaul.github.io/) from time to time.
+- I write posts on [my technical blog](https://sites.google.com/view/debasispaul/) from time to time.
 
 Let's Connect
 -------------
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/thedebasispaul)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub" />](https://github.com/debasispaul/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" alt="Email" />](https://debasispaul.github.io/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" alt="Email" />](https://sites.google.com/view/debasispaul/)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/debasispaul/)
 
-https://debasispaul.github.io/
+https://sites.google.com/view/debasispaul/
 
 
 Stats
