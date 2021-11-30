@@ -18,7 +18,7 @@ You can find a list below of what I'm currently focused on:
 - Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
 - I write posts on [my technical blog](https://sites.google.com/view/debasispaul/) from time to time.
 
-Let's Connect
+Let's Connect 
 -------------
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/thedebasispaul)
@@ -29,7 +29,7 @@ Let's Connect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thedebasispaul)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/690374/sipke-schoorstra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitter' height='40'>](https://www.twitch.tv/debasispaul)
 
-https://sites.google.com/view/debasispaul/
+* 💬 Ask me about Anything  https://sites.google.com/view/debasispaul/
 
 
 Stats
@@ -40,7 +40,7 @@ Stats
   <a href="https://github.com/debasispaul?tab=followers">
     <img src="https://img.shields.io/github/followers/debasispaul?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-
+  
   </br>
   </br>
 <a href="https://github.com/debasispaul">
