@@ -8,6 +8,11 @@ When I don't work with F#, I work with C# I dabble in different things in .NET s
 
 You can find a list below of what I'm currently focused on:
 - Building my ASP.NET Core knowledge from the ground up with the Book []().
+- HTML, ASP.NET, and C# developer 
+- Docker and Kubernetes developer
+- Angular developer
+- .NET Rock & Scott Hanselman Podcast
+- speaker, Orgaanizer, Author, contributor, developer, Singer, Writer, Blogger, Teacher
 - I write posts on [my technical blog](https://sites.google.com/view/debasispaul/) from time to time.
 
 Let's Connect
