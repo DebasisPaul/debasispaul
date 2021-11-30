@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Debasis Paul, and I am a software developer based in Dhaka, BD. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. 
+My name is Debasis Paul, and I am a software developer based in Dhaka, BD. loves building web and cloud apps. His main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In his free time, he brews his own beer. F1 fan
 
 When I don't work with F#, I work with C# I dabble in different things in .NET such as 
 - Developing ASP.NET Core web applications with C# & F#.
@@ -12,7 +12,10 @@ You can find a list below of what I'm currently focused on:
 - Docker and Kubernetes developer
 - Angular developer
 - .NET Rock & Scott Hanselman Podcast
-- speaker, Orgaanizer, Author, contributor, developer, Singer, Writer, Blogger, Teacher
+- speaker, Orgaanizer, Author, contributor, developer, Singer, Writer, Blogger, Teacher, host and produce a few podcasts, tech enthusiast, cooking
+- Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe)
+- Quote: "A developer is a machine that converts coffee into code"
+- Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
 - I write posts on [my technical blog](https://sites.google.com/view/debasispaul/) from time to time.
 
 Let's Connect
