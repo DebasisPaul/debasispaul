@@ -23,6 +23,12 @@ You can find a list below of what I'm currently focused on:
 - Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
 - I write posts on [my technical blog](https://sites.google.com/view/debasispaul/) from time to time.
 
+Other Sites I work on
+- [ASP dot Net Core Project](https://sites.google.com/view/debasis-paul/)
+- https://sites.google.com/view/aspdotnetcore/
+- https://sites.google.com/view/dotnetcsharp
+- https://sites.google.com/view/csharpprojects/
+
 If I am not working or coding, I am probably 
 - sleeping
 - doing husband and father duties
