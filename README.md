@@ -94,6 +94,8 @@ Let's Connect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/690374/sipke-schoorstra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitter' height='40'>](https://www.twitch.tv/debasispaul)
 
  https://sites.google.com/view/debasispaul/
+ https://debasispaul.github.io/
+ 
 
 
 Stats
