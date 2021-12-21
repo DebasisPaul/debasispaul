@@ -205,9 +205,7 @@ Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=debasispaul&theme=prussian" alt="debasispaul" />
 <img alig src="https://github-profile-trophy.vercel.app/?username=debasispaul&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
 
-
 Looking for a talk I did recently? [Browse the presentations]()
-
 
 ![PjsXl86x_f](https://user-images.githubusercontent.com/8848622/133393437-5b634d45-a202-4869-8860-63c004562b39.jpg)
 
@@ -224,8 +222,9 @@ Looking for a talk I did recently? [Browse the presentations]()
 - [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+
 ### Some Fun Facts about me:
-I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/MishManners). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
+I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/debasispaul). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
 
 ## GitHub Stats
 
@@ -233,11 +232,11 @@ If you haven't had a chance to check out [GitHub Skyline](https://skyline.github
 
 As for the charts 🥧, if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
-<img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
+<img src="https://github.com/mishmanners/mishmanners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=debasispaul&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for debasispaul" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=debasispaul&theme=jolly" width="700">
 
 ``` 
           @debasispaul' 2020 GitHub Skyline          
