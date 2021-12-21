@@ -1,9 +1,9 @@
 ### Hi there 👋 
-<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 ![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
 Later
 ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop")
 
+<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 My name is Debasis Paul®™, and I am a software developer based in Dhaka, BD. loves building web and cloud apps. His main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In his free time, he brews his own beer. F1 fan
 
 When I don't work with F#, I work with C# I dabble in different things in .NET such as 
@@ -222,7 +222,6 @@ Looking for a talk I did recently? [Browse the presentations]()
 - [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) 📣
 - [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
-
 
 ### Some Fun Facts about me:
 I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/debasispaul). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
