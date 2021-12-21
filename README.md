@@ -1,6 +1,9 @@
 ### Hi there 👋 
+
 ![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
+
 Later
+
 ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop")
 
 My name is Debasis Paul®™, and I am a software developer based in Dhaka, BD. loves building web and cloud apps. His main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In his free time, he brews his own beer. F1 fan
@@ -131,8 +134,7 @@ Let's Connect
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-Stats
------
+### Stats
 
 <details>
   <summary>📫 Connect with me</summary>
@@ -212,16 +214,12 @@ Looking for a talk I did recently? [Browse the presentations]()
 ![PjsXl86x_f](https://user-images.githubusercontent.com/8848622/133393437-5b634d45-a202-4869-8860-63c004562b39.jpg)
 
 ### Watch, read, and catch up on content:
-- [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
-- [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) 🕹️ formely [Daily Esports](https://www.dailyesports.gg/author/michelle/)
-- [Gaming articles on Gamepur](https://www.gamepur.com/author/michelle-mannering) 🎮
-- [Tech reviews on TechAU](https://techau.com.au/author/mmannering/) 🖥️
-- [Blog posts on DEV](https://dev.to/mishmanners) ✍️
-- [Blog posts on Codenewbies](https://community.codenewbie.org/mishmanners) 💽
-- [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) 🎥
-- [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) 📣
-- [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
-- [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
+- [GitHub blog articles](https://github.blog/author/debasispaul/) :books:
+- [Blog posts on DEV](https://dev.to/debasispaul) ✍️
+- [Past Twitch streams](https://www.twitch.tv/debasispaul/videos?filter=highlights&sort=time) 🎥
+- [Talks and presentations](https://debasispaul.wordpress.com/recorded-presentations/) 📣
+- [Buy merchandise](https://merch.streamelements.com/debasispaul/) 🛒
+- [Buy even more merchandise](https://www.redbubble.com/people/debasispaul/shop) 🛍️
 
 ### Some Fun Facts about me:
 I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/debasispaul). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
