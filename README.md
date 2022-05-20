@@ -105,15 +105,8 @@ Let's Connect
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
- 
 
-
-  <p align="left">
-    <img alt="Andriy's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=andriysvyryd&show_icons=true&hide_border=true&locale=en&layout=compact" alt="andriysvyryd" />
-    <img alt="Andriy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndriySvyryd&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true" />
-  </p>
-
-  [![Visits](https://badges.pufler.dev/visits/AndriySvyryd/AndriySvyryd?style=flat-square)](https://badges.pufler.dev)
+[![Visits](https://badges.pufler.dev/visits/AndriySvyryd/AndriySvyryd?style=flat-square)](https://badges.pufler.dev)
 </details>
 
 [linkedin]: https://www.linkedin.com/in/andriy-svyryd-51364719/
