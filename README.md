@@ -1,21 +1,19 @@
-### Hi there 👋 
-
-![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
-Later
-![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop")
-
-My name is Debasis Paul®™, and I am a software developer based in Dhaka, BD. loves building web and cloud apps. His main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In his free time, he brews his own beer. F1 fan
-
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
+Later      ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop")
+
+### Hi there 👋 
+My name is Debasis Paul®™, and I am a software developer based in Dhaka, BD. loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan
+
 When I don't work with F#, I work with C# I dabble in different things in .NET such as 
 - passionate about open source, Azure, Infrastructure as Code and DevOps.
 - Developing ASP.NET Core web applications with C# & F#.
-- Exploring frontend development with Angular, F# & Javascript.
+- Exploring frontend development with React, Angular, F# & Javascript.
 
 💬 Ask me about Anything Azure, Angular, CosmosDB & Application Modernization (CloudNative,Devops,Serverless)
 
 You can find a list below of what I'm currently focused on:
-- Building my ASP.NET Core knowledge from the ground up with the Book []().
+- Building my ASP.NET Core knowledge from the ground up with the Book [ASP.NET Core in Action, Second Edition ](https://www.amazon.com/ASP-NET-Core-Action-Second-Andrew/dp/1617298301).
 - HTML, ASP.NET, and C# developer 
 - Docker and Kubernetes developer
 - Angular developer
@@ -25,12 +23,9 @@ You can find a list below of what I'm currently focused on:
 - Quote: "A developer is a machine that converts coffee into code"
 - Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
 - I write posts on [my technical blog](https://sites.google.com/view/debasispaul/) from time to time.
-
+- 
 Other Sites I work on
 - [ASP dot Net Core Project](https://sites.google.com/view/debasis-paul/)
-- https://sites.google.com/view/aspdotnetcore/
-- https://sites.google.com/view/dotnetcsharp
-- https://sites.google.com/view/csharpprojects/
 
 If I am not working or coding, I am probably 
 - sleeping
@@ -41,33 +36,24 @@ If I am not working or coding, I am probably
 - running
 - swimming
 
-
 ### Open source
 
 When I don't get paid to code, I still code, mainly on these open source projects:
-
 #### Jint - [https://github.com/sebastienros/jint](https://github.com/sebastienros/jint) 
-
 A JavaScript interpreter for .NET, which allows to run standard scripts in any .NET application. If you need to add some scripting capabilities to your apps, to build a rules engine, or evaluate configurable predicates, you should use it. It's fast and standard compliant. 
-
 The first version of this project started at a previous job, where we needed to send email compains, and we wanted to customize these emails using templates. We followed the way Razor was working by translating the template into pure code, but decided that JavaScript would be easier than C# for editors. A few years ago I decided to rewrite it from scratch following the ECMAScript specs. The first week I joined Microsoft I was asked to show a prototype to Scott Guthrie of "jQuery on the server" which I had built with it, that was fun!
 
 #### YesSQL - [https://github.com/sebastienros/yessql](https://github.com/sebastienros/yessql) 
-
 A NoSQL-like document database layer for .NET that works on existing RDBMS like SQL Server, PostgresQL, Sqlite, MySQL. It allows to store documents and define materialized indexes you can query on using SQL directly. Because it's using the database system you want, you can reuse your existing knowledge, and also use custom SQL queries when you need to optimize for performance.
-
 The idea of the project came to me while working on the first version of Orchard CMS, where we would have to split entities in many tables, which was impacting perf a lot. A CMS usually fits a document based approach, with denormalized data. However using brand new NoSQL databases is often an issue in terms of vendor lock-in, or lack of experience on these systems. RavenDB paved the way in .NET, and I thought we could definitely provide similar features using an RDBMS. Now YesSQL is the standard way to store content in Orchard Core.
 
 #### Fluid - [https://github.com/sebastienros/fluid](https://github.com/sebastienros/fluid) 
-
 A Liquid template engine. Liquid is a templating language created by Shopify and used in other places like Jekyll. This can be used to provide a safe way for users to author templates. It also contains an MVC view engines where files like `index.liquid` will be used automacically for MVC Views.
-
 This project was created for [Orchard Core](https://github.com/OrchardCMS/OrchardCore) in order to enable users to create safe templates, and faster cold rendering of templates. The issue with Razor for content editors is that it's not safe, as it allows to access anything that C# allows, including reading the whole filesystem, and it is also slower to render a template the first time as it requires compilation. Fluid solves these two issues and now used in other .NET CMSes. Initially I tried to use [dotLiquid](http://dotliquidmarkup.org/) but was faced with performance issues as it is using regular expressions to parse the templates.
 
 ### More about myself
 
 #### My current bikes (we never have enough bikes)
-
 - Specialized Diverge Comp, mostly for commuting now.
 - Specialized Roubaix Expert Di2, for long/group rides.
 - Specialized Stump Jumper, for mountain biking.
@@ -75,19 +61,16 @@ This project was created for [Orchard Core](https://github.com/OrchardCMS/Orchar
 
 
 #### My current guitars (we never have enough guitars)
-
 - Taylor 214ce
 - Yamaha SLG200S Silent Guitar
 
 #### My current running gear (one pair is enough)
-
 - Nike Air Zoom Tempo Next%
 - Balega Hidden Comfort Running Socks
 
 
 Let's Connect 
 -------------
-
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/thedebasispaul)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub" />](https://github.com/debasispaul/)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" alt="Email" />](https://sites.google.com/view/debasispaul/)
