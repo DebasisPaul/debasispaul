@@ -106,48 +106,7 @@ Let's Connect
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
  
-### I'm listening too:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-### Stats
-
-<details>
-  <summary>📫 Connect with me</summary>
-
-  [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-  [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
-
-  <br />
-  <br />
-</details>
-
-<details>
-  <summary>👨‍💻 Technology Stack</summary>
-  
-  <p align="left">
-    <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
-    <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
-    <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" /></a>
-    <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>  
-    <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
-    <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-    <a href="https://sass-lang.com/" target="_blank"><img align="left" alt="SASS" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" /></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" /></a>
-    <a href="https://webpack.js.org" target="_blank"><img align="left" alt="Webpack" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" /></a>
-    <a href="https://portal.azure.com/" target="_blank"><img align="left" alt="Azure" width="40" height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" /></a>
-    <a href="https://azure.microsoft.com/services/cosmos-db/" target="_blank"><img align="left" alt="Azure Cosmos" width="40" height="40" src="https://azurecomcdn.azureedge.net/cvt-bc7678720274e2a314365cb2c02b1d2cf78aa3804b40bd998fb989bb85b347bd/images/page/services/cosmosdb/dev-01-sql-api.svg" /></a>
-  </p>
-  
-  <br />
-  <br />  
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andriysvyryd&margin-w=5" alt="andriysvyryd" /></a>
-
-  <br />
 
   <p align="left">
     <img alt="Andriy's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=andriysvyryd&show_icons=true&hide_border=true&locale=en&layout=compact" alt="andriysvyryd" />
