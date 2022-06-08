@@ -4,6 +4,15 @@
 # Hi there 👋 
 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
 
+[![Visits](https://badges.pufler.dev/visits/AndriySvyryd/AndriySvyryd?style=flat-square)](https://badges.pufler.dev)
+</details>
+<a href="http://twitter.com/thedebasispaul">
+    <img src="https://img.shields.io/twitter/follow/thedebasispaul?label=Twitter&logo=twitter&style=for-the-badge" />
+</a>
+<a href="https://github.com/debasispaul?tab=followers">
+    <img src="https://img.shields.io/github/followers/debasispaul?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+</a> 
+
 # Some Fun Facts about me:
 I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/debasispaul). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
 
@@ -107,19 +116,12 @@ The idea of the project came to me while working on the first version of Orchard
 <a href="https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
 <a href="https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
 
-[![Visits](https://badges.pufler.dev/visits/AndriySvyryd/AndriySvyryd?style=flat-square)](https://badges.pufler.dev)
-</details>
-<a href="http://twitter.com/thedebasispaul">
-    <img src="https://img.shields.io/twitter/follow/thedebasispaul?label=Twitter&logo=twitter&style=for-the-badge" />
-</a>
-<a href="https://github.com/debasispaul?tab=followers">
-    <img src="https://img.shields.io/github/followers/debasispaul?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-</a> </br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debasispaul&theme=prussian" alt="debasispaul" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=debasispaul&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
 <a href="https://github.com/debasispaul">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=debasispaul&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/debasispaul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasispaul&count_private=true&show_icons=true&layout=compact" />
 </a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debasispaul&theme=prussian" alt="debasispaul" />
-<img alig src="https://github-profile-trophy.vercel.app/?username=debasispaul&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
+
