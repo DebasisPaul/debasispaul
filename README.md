@@ -86,17 +86,6 @@ The idea of the project came to me while working on the first version of Orchard
 - [Buy merchandise](https://merch.streamelements.com/debasispaul/) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/people/debasispaul/shop) 🛍️
 
-# Let's Connect 
-
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/thedebasispaul)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub" />](https://github.com/debasispaul/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" alt="Email" />](https://sites.google.com/view/debasispaul/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/debasispaul/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/debasispaul)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thedebasispaul)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitter' height='40'>](https://www.twitch.tv/debasispaul)
-
 # Find me all around the web:
 <p align="left">
 <a href="http://twitter.com/thedebasispaul" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
@@ -108,6 +97,15 @@ The idea of the project came to me while working on the first version of Orchard
 <a href="[https://hackathongoddess.wordpress.com/](https://sites.google.com/view/debasispaul/)" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
 <a href="https://dev.to/debasispaul" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/thedebasispaul)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub" />](https://github.com/debasispaul/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" alt="Email" />](https://sites.google.com/view/debasispaul/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/debasispaul/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/debasispaul)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thedebasispaul)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitter' height='40'>](https://www.twitch.tv/debasispaul)
 
 # I'm a gamer too, so you might find me on:
 <a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
