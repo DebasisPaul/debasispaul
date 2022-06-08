@@ -2,49 +2,35 @@
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>  ![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting") Later  ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") Looking for a talk I did recently? [Browse the presentations](https://sites.google.com/view/debasispaul/) ![PjsXl86x_f](https://user-images.githubusercontent.com/8848622/133393437-5b634d45-a202-4869-8860-63c004562b39.jpg) 
 
 ### Hi there 👋 
-My name is Debasis Paul®™, and I am a software developer based in Dhaka, BD. loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan
+My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
 
-When I don't work with F#, I work with C# I dabble in different things in .NET such as 
+`Speaker, Orgaanizer, Author, Contributor, Developer, Singer, Writer, Blogger, Teacher, Host and Produce a few podcasts, Tech enthusiast, Cooking, Reviewer`
+💬 Ask me about Anything Asp.net Core, Azure & Microsoft [here](https://linktr.ee/debasispaul)
+💬 I write posts on [Vlog](https://sites.google.com/view/debasispaul/) from time to time.
+💬 Other Sites I work on [Here](https://sites.google.com/view/debasispaul/)
+
+# You can find a list below of what I'm currently focused on:
+- `Building [SOS](https://github.com/DebasisPaul/SOS)`
+
+# When I don't work C# I dabble in different things in .NET such as 
 - passionate about open source, Azure, Infrastructure as Code and DevOps.
-- Developing ASP.NET Core web applications with C# & F#.
-- Exploring frontend development with React, Angular, F# & Javascript.
-
-💬 Ask me about Anything Azure, Angular, CosmosDB & Application Modernization (CloudNative,Devops,Serverless)
-
-You can find a list below of what I'm currently focused on:
-- Building my ASP.NET Core knowledge from the ground up with the Book [ASP.NET Core in Action, Second Edition ](https://www.amazon.com/ASP-NET-Core-Action-Second-Andrew/dp/1617298301).
-- HTML, ASP.NET, and C# developer 
+- Developing ASP.NET Core web applications with C#, Blazor, dotnet MAUI, Microsoft Teams APP Integration.
+- Exploring frontend development with React, Angular.
+- Building my C# & ASP.NET Core knowledge from the ground up.
+- Building my  knowledge from the ground up.
+- Blazor, dotNet MAUI Developer
 - Docker and Kubernetes developer
-- Angular developer
+- Angular & React developer
 - .NET Rock & Scott Hanselman Podcast
-- speaker, Orgaanizer, Author, contributor, developer, Singer, Writer, Blogger, Teacher, host and produce a few podcasts, tech enthusiast, cooking, Reviewer
-- Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe)
-- Quote: "A developer is a machine that converts coffee into code"
-- Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
-- I write posts on [my technical blog](https://sites.google.com/view/debasispaul/) from time to time.
-- 
-Other Sites I work on
-- [Project](https://sites.google.com/view/debasispaul/)
 
-If I am not working or coding, I am probably 
+# If I am not working or coding, I am probably 
 - sleeping
-- doing husband and father duties
+- doing Cat Dad duties, Cooking, Cleaning, Gardening
 - listening to James Taylor
 - playing guitar
 - biking
 - running
 - swimming
-
-### Open source
-
-When I don't get paid to code, I still code, mainly on these open source projects:
-#### Jint - [https://github.com/sebastienros/jint](https://github.com/sebastienros/jint) 
-A JavaScript interpreter for .NET, which allows to run standard scripts in any .NET application. If you need to add some scripting capabilities to your apps, to build a rules engine, or evaluate configurable predicates, you should use it. It's fast and standard compliant. 
-The first version of this project started at a previous job, where we needed to send email compains, and we wanted to customize these emails using templates. We followed the way Razor was working by translating the template into pure code, but decided that JavaScript would be easier than C# for editors. A few years ago I decided to rewrite it from scratch following the ECMAScript specs. The first week I joined Microsoft I was asked to show a prototype to Scott Guthrie of "jQuery on the server" which I had built with it, that was fun!
-
-#### YesSQL - [https://github.com/sebastienros/yessql](https://github.com/sebastienros/yessql) 
-A NoSQL-like document database layer for .NET that works on existing RDBMS like SQL Server, PostgresQL, Sqlite, MySQL. It allows to store documents and define materialized indexes you can query on using SQL directly. Because it's using the database system you want, you can reuse your existing knowledge, and also use custom SQL queries when you need to optimize for performance.
-The idea of the project came to me while working on the first version of Orchard CMS, where we would have to split entities in many tables, which was impacting perf a lot. A CMS usually fits a document based approach, with denormalized data. However using brand new NoSQL databases is often an issue in terms of vendor lock-in, or lack of experience on these systems. RavenDB paved the way in .NET, and I thought we could definitely provide similar features using an RDBMS. Now YesSQL is the standard way to store content in Orchard Core.
 
 ### More about myself
 
@@ -62,6 +48,16 @@ The idea of the project came to me while working on the first version of Orchard
 - Nike Air Zoom Tempo Next%
 - Balega Hidden Comfort Running Socks
 
+### Open source
+
+When I don't get paid to code, I still code, mainly on these open source projects:
+#### Jint - [https://github.com/sebastienros/jint](https://github.com/sebastienros/jint) 
+A JavaScript interpreter for .NET, which allows to run standard scripts in any .NET application. If you need to add some scripting capabilities to your apps, to build a rules engine, or evaluate configurable predicates, you should use it. It's fast and standard compliant. 
+The first version of this project started at a previous job, where we needed to send email compains, and we wanted to customize these emails using templates. We followed the way Razor was working by translating the template into pure code, but decided that JavaScript would be easier than C# for editors. A few years ago I decided to rewrite it from scratch following the ECMAScript specs. The first week I joined Microsoft I was asked to show a prototype to Scott Guthrie of "jQuery on the server" which I had built with it, that was fun!
+
+#### YesSQL - [https://github.com/sebastienros/yessql](https://github.com/sebastienros/yessql) 
+A NoSQL-like document database layer for .NET that works on existing RDBMS like SQL Server, PostgresQL, Sqlite, MySQL. It allows to store documents and define materialized indexes you can query on using SQL directly. Because it's using the database system you want, you can reuse your existing knowledge, and also use custom SQL queries when you need to optimize for performance.
+The idea of the project came to me while working on the first version of Orchard CMS, where we would have to split entities in many tables, which was impacting perf a lot. A CMS usually fits a document based approach, with denormalized data. However using brand new NoSQL databases is often an issue in terms of vendor lock-in, or lack of experience on these systems. RavenDB paved the way in .NET, and I thought we could definitely provide similar features using an RDBMS. Now YesSQL is the standard way to store content in Orchard Core.
 
 Let's Connect 
 -------------
