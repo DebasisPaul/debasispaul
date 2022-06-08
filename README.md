@@ -28,7 +28,7 @@ My name is Debasis Paul®™, and I am a software developer Architect based in B
 # Some Fun Facts about me:
 I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/debasispaul). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
 
-`Speaker, Orgaanizer, Author, Contributor, Developer, Singer, Writer, Blogger, Teacher, Host and Produce a few podcasts, Tech enthusiast, Cooking, Reviewer`
+`Speaker` `Orgaanizer` `Author` `Contributor` `Developer` `Singer` `Writer` `Blogger` `Teacher` `Host and Produce a few podcasts` `Tech enthusiast` `Cooking` `Reviewer`
 💬 Ask me about Anything Asp.net Core, Azure & Microsoft [here](https://linktr.ee/debasispaul)
 💬 I write posts on [Vlog](https://sites.google.com/view/debasispaul/) from time to time.
 💬 Other Sites I work on [Here](https://sites.google.com/view/debasispaul/)
@@ -46,13 +46,14 @@ I've founded a few companies in the past :zap: I love playing video games which 
 - .NET Rock & Scott Hanselman Podcast
 
 # If I am not working or coding, I am probably 
-- sleeping
-- doing Cat Dad duties, Cooking, Cleaning, Gardening
-- listening to James Taylor
-- playing guitar
-- biking
-- running
-- swimming
+`sleeping`
+`doing Cat Dad duties, Cooking, Cleaning, Gardening`
+`listening to JTaylor Swift, Adale`
+`playing guitar, Piano, or Reading .Net Books`
+`biking`
+`running`
+`swimming`
+`Exercise, yoga, Mindfulness`
 
 # More about myself
 
@@ -72,7 +73,7 @@ I've founded a few companies in the past :zap: I love playing video games which 
 
 # Open source
 
-When I don't get paid to code, I still code, mainly on these open source projects:
+`When I don't get paid to code, I still code, mainly on these open source projects:`
 `Jint - [https://github.com/sebastienros/jint](https://github.com/sebastienros/jint)`
 A JavaScript interpreter for .NET, which allows to run standard scripts in any .NET application. If you need to add some scripting capabilities to your apps, to build a rules engine, or evaluate configurable predicates, you should use it. It's fast and standard compliant. 
 The first version of this project started at a previous job, where we needed to send email compains, and we wanted to customize these emails using templates. We followed the way Razor was working by translating the template into pure code, but decided that JavaScript would be easier than C# for editors. A few years ago I decided to rewrite it from scratch following the ECMAScript specs. The first week I joined Microsoft I was asked to show a prototype to Scott Guthrie of "jQuery on the server" which I had built with it, that was fun!
@@ -140,4 +141,3 @@ The idea of the project came to me while working on the first version of Orchard
 <a href="https://github.com/debasispaul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasispaul&count_private=true&show_icons=true&layout=compact" />
 </a>
----
