@@ -4,6 +4,9 @@
 # Hi there 👋 
 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
 
+# Some Fun Facts about me:
+I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/debasispaul). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
+
 `Speaker, Orgaanizer, Author, Contributor, Developer, Singer, Writer, Blogger, Teacher, Host and Produce a few podcasts, Tech enthusiast, Cooking, Reviewer`
 💬 Ask me about Anything Asp.net Core, Azure & Microsoft [here](https://linktr.ee/debasispaul)
 💬 I write posts on [Vlog](https://sites.google.com/view/debasispaul/) from time to time.
@@ -59,6 +62,14 @@ The first version of this project started at a previous job, where we needed to 
 A NoSQL-like document database layer for .NET that works on existing RDBMS like SQL Server, PostgresQL, Sqlite, MySQL. It allows to store documents and define materialized indexes you can query on using SQL directly. Because it's using the database system you want, you can reuse your existing knowledge, and also use custom SQL queries when you need to optimize for performance.
 The idea of the project came to me while working on the first version of Orchard CMS, where we would have to split entities in many tables, which was impacting perf a lot. A CMS usually fits a document based approach, with denormalized data. However using brand new NoSQL databases is often an issue in terms of vendor lock-in, or lack of experience on these systems. RavenDB paved the way in .NET, and I thought we could definitely provide similar features using an RDBMS. Now YesSQL is the standard way to store content in Orchard Core.
 
+# Watch, read, and catch up on content:
+- [GitHub blog articles](https://github.blog/author/debasispaul/)
+- [Blog posts on DEV](https://dev.to/debasispaul) ✍️
+- [Past Twitch streams](https://www.twitch.tv/debasispaul/videos?filter=highlights&sort=time) 🎥
+- [Talks and presentations](https://debasispaul.wordpress.com/recorded-presentations/) 📣
+- [Buy merchandise](https://merch.streamelements.com/debasispaul/) 🛒
+- [Buy even more merchandise](https://www.redbubble.com/people/debasispaul/shop) 🛍️
+
 # Let's Connect 
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/thedebasispaul)
@@ -112,14 +123,3 @@ The idea of the project came to me while working on the first version of Orchard
 </a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=debasispaul&theme=prussian" alt="debasispaul" />
 <img alig src="https://github-profile-trophy.vercel.app/?username=debasispaul&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
-
-# Watch, read, and catch up on content:
-- [GitHub blog articles](https://github.blog/author/debasispaul/) :books:
-- [Blog posts on DEV](https://dev.to/debasispaul) ✍️
-- [Past Twitch streams](https://www.twitch.tv/debasispaul/videos?filter=highlights&sort=time) 🎥
-- [Talks and presentations](https://debasispaul.wordpress.com/recorded-presentations/) 📣
-- [Buy merchandise](https://merch.streamelements.com/debasispaul/) 🛒
-- [Buy even more merchandise](https://www.redbubble.com/people/debasispaul/shop) 🛍️
-
-# Some Fun Facts about me:
-I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/debasispaul). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
