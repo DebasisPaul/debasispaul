@@ -7,7 +7,7 @@ Later  ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-b
 
 # You can find a list below of what I'm currently focused on:
 - [SOS.v01](https://sites.google.com/view/shoponlinesolution/)
-- Love To Building .Net Community
+- Love To Build .Net Community
 - Learning C#, ASP.NET Core (Blazor, Web Apis, MVC, Razor Pages, SognalR, Microservices) Entity Framework, DotNet MAUI.
 - READING .Net Books
 - Singing With My Piano
