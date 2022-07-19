@@ -4,14 +4,15 @@
 ![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
 Later  ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
 
----
+
 # You can find a list below of what I'm currently focused on:
-- `Building [SOS](https://github.com/DebasisPaul/SOS)`
-- `Love To Building .Net Community`
-- `Learning C#, ASP.NET Core, Blazor, DotNet MAUI, AZURE`
-- `READING .Net Books`
-- `Singing With My Piano`
-- `Cooking & Clianing For MySelf`
+- [SOS.v01](https://sites.google.com/view/shoponlinesolution/)
+- Love To Building .Net Community
+- Learning C#, ASP.NET Core (Blazor, Web Apis, MVC, Razor Pages, SognalR, Microservices) Entity Framework, DotNet MAUI.
+- READING .Net Books
+- Singing With My Piano
+- Cooking & Cleaning For MySelf
+- Doing dad responsibility for my two cat Ashera & Oliver.
 
 # Hi there 👋 
 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
