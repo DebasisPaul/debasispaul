@@ -11,6 +11,8 @@
 - Cooking & Cleaning For MySelf
 - Doing dad responsibility for my two cat Ashera & Oliver.
 
+<a><img align="left" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a> 
+
 # Hi there 👋 
 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
 
@@ -145,7 +147,3 @@ The idea of the project came to me while working on the first version of Orchard
 <a href="https://github.com/debasispaul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasispaul&count_private=true&show_icons=true&layout=compact" />
 </a>
-
-![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
-<a><img align="left" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a> 
-Later  ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
