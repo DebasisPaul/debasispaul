@@ -1,10 +1,6 @@
 
 ![](https://user-images.githubusercontent.com/8848622/183581950-173ce07c-5c70-41ea-9907-c950a969e5bb.jpg)
 
-<img align="left" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a> 
-![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
-Later  ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
-
 
 # You can find a list below of what I'm currently focused on:
 - [SOS.v01](https://sites.google.com/view/shoponlinesolution/)
@@ -46,6 +42,9 @@ I've founded a few companies in the past :zap: I love playing video games which 
 - Docker and Kubernetes developer
 - Angular & React developer
 - .NET Rock & Scott Hanselman Podcast
+
+![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
+
 
 # If I am not working or coding, I am probably 
 `sleeping`
@@ -91,6 +90,9 @@ The idea of the project came to me while working on the first version of Orchard
 - [Talks and presentations](https://debasispaul.wordpress.com/recorded-presentations/) 📣
 - [Buy merchandise](https://merch.streamelements.com/debasispaul/) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/people/debasispaul/shop) 🛍️
+
+
+![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
 
 ---
 
@@ -143,3 +145,7 @@ The idea of the project came to me while working on the first version of Orchard
 <a href="https://github.com/debasispaul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasispaul&count_private=true&show_icons=true&layout=compact" />
 </a>
+
+![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
+<a><img align="left" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a> 
+Later  ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
