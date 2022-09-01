@@ -3,9 +3,10 @@
 
 
 # You can find a list below of what I'm currently focused on:
-- [SOS.v01](https://sites.google.com/view/shoponlinesolution/)
+- [SalesManagementApp](https://sites.google.com/view/smavlog/) 
+- [SMA-DOC](https://github.com/DebasisPaul/SMA-DOC)
 - Love To Build .Net Community
-- Learning Visual Studio, .Net 7, C#, ASP.NET Core (Blazor Web Assembly, Web Apis, MVC, Razor Pages, SignalR, Microservices) Entity Framework, Sql Server 2022, DotNet MAUI.
+- Learning Visual Studio, .Net 7, C#, ASP.NET Core (Blazor Web Assembly, Web Apis, MVC, Razor Pages, SignalR, Microservices), Entity Framework, Sql Server 2022, DotNet MAUI.
 - READING .Net Books
 - Singing With My Piano
 - Cooking & Cleaning For MySelf
