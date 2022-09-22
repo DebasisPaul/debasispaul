@@ -3,8 +3,9 @@
 
 
 # You can find a list below of what I'm currently focused on:
-- [SalesManagementApp](https://sites.google.com/view/smavlog/) 
-- [SMA-DOC](https://github.com/DebasisPaul/SMA-DOC)
+- [Retail Management System](https://sites.google.com/view/retailmanagementsystem/) 
+- [Tournament Management System](https://sites.google.com/view/tournamenttrackersystem/)
+- [OnlineSuggestionSystem](https://sites.google.com/view/suggestionsiteapplication/)
 - Love To Build .Net Community
 - Learning Visual Studio, .Net 7, C#, ASP.NET Core (Blazor Web Assembly, Web Apis, MVC, Razor Pages, SignalR, Microservices), Entity Framework, Sql Server 2022, DotNet MAUI.
 - READING .Net Books
