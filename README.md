@@ -1,11 +1,7 @@
 `MY DAD OLIVER & MOM ASHERA`
 ![](https://user-images.githubusercontent.com/8848622/183581950-173ce07c-5c70-41ea-9907-c950a969e5bb.jpg)
 
-
 # You can find a list below of what I'm currently focused on:
-- [Retail Management System](https://sites.google.com/view/retailmanagementsystem/) 
-- [Tournament Management System](https://sites.google.com/view/tournamenttrackersystem/)
-- [OnlineSuggestionSystem](https://sites.google.com/view/suggestionsiteapplication/)
 - Love To Build .Net Community
 - Learning Visual Studio, .Net 7, C#, ASP.NET Core (Blazor Web Assembly, Web Apis, MVC, Razor Pages, SignalR, Microservices), Entity Framework, Sql Server 2022, DotNet MAUI.
 - READING .Net Books
