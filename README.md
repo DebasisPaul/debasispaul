@@ -2,12 +2,6 @@
 ![](https://user-images.githubusercontent.com/8848622/183581950-173ce07c-5c70-41ea-9907-c950a969e5bb.jpg)
 
 ![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
-<a href="http://twitter.com/thedebasispaul">
-    <img src="https://img.shields.io/twitter/follow/thedebasispaul?label=Twitter&logo=twitter&style=for-the-badge" />
-</a>
-<a href="https://github.com/debasispaul?tab=followers">
-    <img src="https://img.shields.io/github/followers/debasispaul?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-</a> 
 ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
 
 # 👋 
