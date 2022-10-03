@@ -93,51 +93,10 @@ The idea of the project came to me while working on the first version of Orchard
 
 ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
 
----
 
-# Find me all around the web:
-<p align="left">
-<a href="http://twitter.com/thedebasispaul" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
-<a href="http://linkedin.com/in/debasispaul" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="http://instagram.com/debasispaul" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="http://twitch.tv/debasispaul" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
-<a href="http://youtube.com/c/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
-<a href="https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a href="[https://hackathongoddess.wordpress.com/](https://sites.google.com/view/debasispaul/)" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://dev.to/debasispaul" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
-</p>
-
----
-
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/thedebasispaul)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub" />](https://github.com/debasispaul/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" alt="Email" />](https://sites.google.com/view/debasispaul/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/debasispaul/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/debasispaul)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thedebasispaul)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitter' height='40'>](https://www.twitch.tv/debasispaul)
-
----
-# I'm a gamer too, so you might find me on:
-<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
-<a href=" https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/ESO.png" height="30" /></a> 
-<a href="https://sites.google.com/view/debasispaul/ " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a> 
-<a href=" https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="30" /></a>
-<a href="https://sites.google.com/view/debasispaul/ " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Battlenet.png" height="30" /></a>
-<a href=" https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Xbox.png" height="30" /></a> 
-<a href=" https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30" /></a> 
-<a href="https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PoGo.png" height="30" /></a> 
-<a href="https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Shadowverse.png" height="30" /></a> 
-<a href="https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
-<a href="https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
-<a href="https://sites.google.com/view/debasispaul/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
-
----
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=debasispaul&theme=prussian" alt="debasispaul" />
 <img alig src="https://github-profile-trophy.vercel.app/?username=debasispaul&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
 
----
 <a href="https://github.com/debasispaul">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=debasispaul&count_private=true&show_icons=true" />
 </a>
