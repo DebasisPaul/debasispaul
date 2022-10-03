@@ -1,14 +1,14 @@
 `MY DAD OLIVER & MOM ASHERA`
 ![](https://user-images.githubusercontent.com/8848622/183581950-173ce07c-5c70-41ea-9907-c950a969e5bb.jpg)
+
 ![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
-![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
-<a><img align="left" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a> 
 <a href="http://twitter.com/thedebasispaul">
     <img src="https://img.shields.io/twitter/follow/thedebasispaul?label=Twitter&logo=twitter&style=for-the-badge" />
 </a>
 <a href="https://github.com/debasispaul?tab=followers">
     <img src="https://img.shields.io/github/followers/debasispaul?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a> 
+![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
 
 # 👋 
 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
