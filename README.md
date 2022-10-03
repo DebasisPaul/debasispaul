@@ -1,5 +1,17 @@
 `MY DAD OLIVER & MOM ASHERA`
 ![](https://user-images.githubusercontent.com/8848622/183581950-173ce07c-5c70-41ea-9907-c950a969e5bb.jpg)
+![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
+![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
+<a><img align="left" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a> 
+<a href="http://twitter.com/thedebasispaul">
+    <img src="https://img.shields.io/twitter/follow/thedebasispaul?label=Twitter&logo=twitter&style=for-the-badge" />
+</a>
+<a href="https://github.com/debasispaul?tab=followers">
+    <img src="https://img.shields.io/github/followers/debasispaul?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+</a> 
+
+# 👋 
+My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
 
 # You can find a list below of what I'm currently focused on:
 - Love To Build .Net Community
@@ -8,28 +20,6 @@
 - Singing With My Piano
 - Cooking & Cleaning For MySelf
 - Doing dad responsibility for my two cat Ashera & Oliver.
-
-<a><img align="left" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a> 
-
-# Hi there 👋 
-My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
-
-
-<a href="http://twitter.com/thedebasispaul">
-    <img src="https://img.shields.io/twitter/follow/thedebasispaul?label=Twitter&logo=twitter&style=for-the-badge" />
-</a>
-<a href="https://github.com/debasispaul?tab=followers">
-    <img src="https://img.shields.io/github/followers/debasispaul?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-</a> 
-
-# Some Fun Facts about me:
-I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/debasispaul). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
-
-`Speaker` `Orgaanizer` `Author` `Contributor` `Developer` `Singer` `Writer` `Blogger` `Teacher` `Host and Produce a few podcasts` `Tech enthusiast` `Cooking` `Reviewer`
-💬 Ask me about Anything Asp.net Core, Azure & Microsoft [here](https://linktr.ee/debasispaul)
-💬 I write posts on [Vlog](https://sites.google.com/view/debasispaul/) from time to time.
-💬 Other Sites I work on [Here](https://sites.google.com/view/debasispaul/)
-💬 Looking for a talk I did recently? [Browse the presentations](https://sites.google.com/view/debasispaul/) 
 
 # When I don't work C# I dabble in different things in .NET such as 
 - passionate about open source, Azure, Infrastructure as Code and DevOps.
@@ -42,13 +32,10 @@ I've founded a few companies in the past :zap: I love playing video games which 
 - Angular & React developer
 - .NET Rock & Scott Hanselman Podcast
 
-![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
-
-
 # If I am not working or coding, I am probably 
 `sleeping`
 `doing Cat Dad duties, Cooking, Cleaning, Gardening`
-`listening to JTaylor Swift, Adale`
+`listening to Taylor Swift, Adale`
 `playing guitar, Piano, or Reading .Net Books`
 `biking`
 `running`
@@ -82,24 +69,5 @@ The first version of this project started at a previous job, where we needed to 
 A NoSQL-like document database layer for .NET that works on existing RDBMS like SQL Server, PostgresQL, Sqlite, MySQL. It allows to store documents and define materialized indexes you can query on using SQL directly. Because it's using the database system you want, you can reuse your existing knowledge, and also use custom SQL queries when you need to optimize for performance.
 The idea of the project came to me while working on the first version of Orchard CMS, where we would have to split entities in many tables, which was impacting perf a lot. A CMS usually fits a document based approach, with denormalized data. However using brand new NoSQL databases is often an issue in terms of vendor lock-in, or lack of experience on these systems. RavenDB paved the way in .NET, and I thought we could definitely provide similar features using an RDBMS. Now YesSQL is the standard way to store content in Orchard Core.
 
-# Watch, read, and catch up on content:
-- [GitHub blog articles](https://github.blog/author/debasispaul/)
-- [Blog posts on DEV](https://dev.to/debasispaul) ✍️
-- [Past Twitch streams](https://www.twitch.tv/debasispaul/videos?filter=highlights&sort=time) 🎥
-- [Talks and presentations](https://debasispaul.wordpress.com/recorded-presentations/) 📣
-- [Buy merchandise](https://merch.streamelements.com/debasispaul/) 🛒
-- [Buy even more merchandise](https://www.redbubble.com/people/debasispaul/shop) 🛍️
-
-
-![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") 
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=debasispaul&theme=prussian" alt="debasispaul" />
 <img alig src="https://github-profile-trophy.vercel.app/?username=debasispaul&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
-
-<a href="https://github.com/debasispaul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debasispaul&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/debasispaul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasispaul&count_private=true&show_icons=true&layout=compact" />
-</a>
