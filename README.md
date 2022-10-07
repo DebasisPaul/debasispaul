@@ -64,4 +64,24 @@ A NoSQL-like document database layer for .NET that works on existing RDBMS like 
 The idea of the project came to me while working on the first version of Orchard CMS, where we would have to split entities in many tables, which was impacting perf a lot. A CMS usually fits a document based approach, with denormalized data. However using brand new NoSQL databases is often an issue in terms of vendor lock-in, or lack of experience on these systems. RavenDB paved the way in .NET, and I thought we could definitely provide similar features using an RDBMS. Now YesSQL is the standard way to store content in Orchard Core.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=debasispaul&theme=prussian" alt="debasispaul" />
-<img alig src="https://github-profile-trophy.vercel.app/?username=debasispaul&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
+
+
+## :computer:  My GitHub Stats
+<div align="center">
+     <!--img height="180em" src="profile-3d-contrib/pie_lang_only.svg"-->
+    <img height="200em" src="profile-3d-contrib/radar_contrib_only.svg"/>
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debasispaul&theme=github"/>
+</div>
+<div align="center">
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debasispaul"/>
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debasispaul"/>
+</div>
+<!--div align="center"-->
+    <!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasispaul&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
+<!--/div-->
+<div align="center">
+    <img width="500em" src="https://streak-stats.demolab.com/?user=debasispaul&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"/>
+</div>
+<div align="center">
+    <<img alig src="https://github-profile-trophy.vercel.app/?username=debasispaul&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
+</div>
