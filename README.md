@@ -13,8 +13,8 @@
 `You can find a list below of what I'm currently focused on:`
 ---
 - Love To Build .Net Community
-- Learning Visual Studio, .Net 7, C#, ASP.NET Core (Blazor Web Assembly, Web Apis, MVC, Razor Pages, SignalR, Microservices), Entity Framework, Sql Server 2022, DotNet MAUI.
-- READING .Net Books
+- Learning .NET WEB, .NET CLOUD, .NET Machine Learning & AI, Microservices with .NET, .NET Desktop Apps, Game Development with .NET, Internet of Things (IoT), .NET Multi-platform App UI, .NET Programming Languages
+- READING .NET Books, Enjoing .NET Videos, .NET COMMUNITY Events.
 - Singing With My Piano
 - Cooking & Cleaning For MySelf
 - Doing dad responsibility for my two cat Ashera & Oliver.
@@ -26,17 +26,14 @@
 - Exploring frontend development with React, Angular.
 - Building my C# & ASP.NET Core knowledge from the ground up.
 - Building my  knowledge from the ground up.
-- Blazor, dotNet MAUI Developer
-- Docker and Kubernetes developer
-- Angular & React developer
-- .NET Rock & Scott Hanselman Podcast
+
 
 `If I am not working or coding, I am probably`
 ---
 `sleeping`
 `doing Cat Dad duties, Cooking, Cleaning, Gardening`
 `listening to Taylor Swift, Adale`
-`playing guitar, Piano, or Reading .Net Books`
+`playing guitar, Piano, or Reading`
 `biking`
 `running`
 `swimming`
