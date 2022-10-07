@@ -4,7 +4,7 @@
 *<img src="https://user-images.githubusercontent.com/8848622/194464069-fd0fdd25-43f5-4d48-9a33-adab86be6c6c.png" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194464078-42e87bc1-8da4-4ea0-8a80-66ac738a007e.jpg" style="width:300px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194464087-896a862d-ddeb-4a23-acb6-f87ead86c9d9.png" style="width:200px;height:200px;">
-<img src="https://user-images.githubusercontent.com/8848622/194465187-ab6c54fd-4a01-4607-8dff-1c853288a1f7.png" style="width:200px;height:200px;">*
+<img src="https://user-images.githubusercontent.com/8848622/194465187-ab6c54fd-4a01-4607-8dff-1c853288a1f7.png" style="width:300px;height:200px;">*
 
 `MY DAD OLIVER & MOM ASHERA`
 ![](https://user-images.githubusercontent.com/8848622/183581950-173ce07c-5c70-41ea-9907-c950a969e5bb.jpg)
