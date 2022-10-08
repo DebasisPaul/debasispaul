@@ -1,13 +1,17 @@
-<img src="https://user-images.githubusercontent.com/8848622/194613403-ce807d42-5d3f-4638-9804-443368ba8696.svg" style="width:400px;height:300px;">![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")👋 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") <img src="https://user-images.githubusercontent.com/8848622/194613384-d5c54c8d-9d3d-4f9a-8cda-121e224e694c.svg" style="width:250px;height:250px;"> <img src="https://user-images.githubusercontent.com/8848622/194616265-144ddad9-8c35-4ec2-9e9e-7ba1b4395381.svg" style="width:250px;height:250px;">
 
+<img src="https://user-images.githubusercontent.com/8848622/194706461-fab0015d-0316-4056-a048-7e07c04fec63.png" style="width:400px;height:200px;">![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")👋 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop")
+
+`MY DAD OLIVER & MOM ASHERA`
+![](https://user-images.githubusercontent.com/8848622/183581950-173ce07c-5c70-41ea-9907-c950a969e5bb.jpg)
 
 *<img src="https://user-images.githubusercontent.com/8848622/194464069-fd0fdd25-43f5-4d48-9a33-adab86be6c6c.png" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194464078-42e87bc1-8da4-4ea0-8a80-66ac738a007e.jpg" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194464087-896a862d-ddeb-4a23-acb6-f87ead86c9d9.png" style="width:200px;height:200px;">
-<img src="https://user-images.githubusercontent.com/8848622/194465187-ab6c54fd-4a01-4607-8dff-1c853288a1f7.png" style="width:200px;height:200px;">*
+<img src="https://user-images.githubusercontent.com/8848622/194465187-ab6c54fd-4a01-4607-8dff-1c853288a1f7.png" style="width:200px;height:200px;">
+<img src="https://user-images.githubusercontent.com/8848622/194706460-198a911e-1a3c-45d9-b06c-ecc61553c798.png" style="width:200px;height:200px;">
+<img src="https://user-images.githubusercontent.com/8848622/194706467-095fc71a-a8a3-41c3-bc06-14f060cd6ac3.png" style="width:200px;height:200px;">
+<img src="https://user-images.githubusercontent.com/8848622/194706468-369eb7e3-576d-4b9d-95a3-3063474103b2.jpg" style="width:450px;height:100px;">*
 
-`MY DAD OLIVER & MOM ASHERA`
-![](https://user-images.githubusercontent.com/8848622/183581950-173ce07c-5c70-41ea-9907-c950a969e5bb.jpg)
 
 
 `You can find a list below of what I'm currently focused on:`
@@ -140,3 +144,8 @@ A NoSQL-like document database layer for .NET that works on existing RDBMS like 
 <div align="center">
   <img width="1000em" style="margin-top: 0px" src="https://eleo-readme-activity-graph.herokuapp.com/graph?username=debasispaul&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
 </div>
+
+*<img src="https://user-images.githubusercontent.com/8848622/194613403-ce807d42-5d3f-4638-9804-443368ba8696.svg" style="width:300px;height:200px;">
+<img src="https://user-images.githubusercontent.com/8848622/194706466-001fb9d9-7581-4949-98a0-5d228145aa33.svg" style="width:300px;height:200px;">
+<img src="https://user-images.githubusercontent.com/8848622/194613384-d5c54c8d-9d3d-4f9a-8cda-121e224e694c.svg" style="width:300px;height:200x;"> 
+<img src="https://user-images.githubusercontent.com/8848622/194616265-144ddad9-8c35-4ec2-9e9e-7ba1b4395381.svg" style="width:300px;height:200x;">*
