@@ -18,7 +18,6 @@
 
 
 <!--
-
 👋 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") <img src="https://user-images.githubusercontent.com/8848622/194464078-42e87bc1-8da4-4ea0-8a80-66ac738a007e.jpg" style="width:300px;height:200px;"> <img src="https://user-images.githubusercontent.com/8848622/194707366-a2b8c4e7-2b6f-4fd3-a1b1-c3c960cbf3c4.svg" style="width:300px;height:200px;">
 
 `MY DAD OLIVER & MOM ASHERA`
@@ -157,8 +156,6 @@ A NoSQL-like document database layer for .NET that works on existing RDBMS like 
 <div align="center">
     <<img alig src="https://github-profile-trophy.vercel.app/?username=debasispaul&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
 </div>
-
-
 
 ## :abacus: Last 30 days of Contributions
 <div align="center">
