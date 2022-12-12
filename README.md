@@ -7,7 +7,7 @@
 - 👯 I’ve podcasted here for 15 years https://paulminutes.com
 - 🤔 I’m on Twitter https://twitter.com/thedebasispaul
 - 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@debasispaul">https://mastodon.social/@debasispaul</a>
-- 💬 and I like making YouTubes https://youtube.com/shanselman
+- 💬 and I like making YouTubes https://www.youtube.com/channel/UC6IHMMFvEE4ky01PI0AfDfA
 - 📫 How to reach me: https://www.debasispaul.com/about/
 - 👕 Buy a T-shirt here: https://www.debasispaul.com/
 - ⚡ Fun fact: 
