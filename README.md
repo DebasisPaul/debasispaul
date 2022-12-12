@@ -18,12 +18,17 @@
 
 
 <!--
-👋 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop") <img src="https://user-images.githubusercontent.com/8848622/194464078-42e87bc1-8da4-4ea0-8a80-66ac738a007e.jpg" style="width:300px;height:200px;"> <img src="https://user-images.githubusercontent.com/8848622/194707366-a2b8c4e7-2b6f-4fd3-a1b1-c3c960cbf3c4.svg" style="width:300px;height:200px;">
+👋 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. 
+
+![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop")
+<img src="https://user-images.githubusercontent.com/8848622/194464078-42e87bc1-8da4-4ea0-8a80-66ac738a007e.jpg" style="width:300px;height:200px;"> 
+<img src="https://user-images.githubusercontent.com/8848622/194707366-a2b8c4e7-2b6f-4fd3-a1b1-c3c960cbf3c4.svg" style="width:300px;height:200px;">
 
 `MY DAD OLIVER & MOM ASHERA`
 ![](https://user-images.githubusercontent.com/8848622/183581950-173ce07c-5c70-41ea-9907-c950a969e5bb.jpg)
 
-<img src="https://user-images.githubusercontent.com/8848622/194706461-fab0015d-0316-4056-a048-7e07c04fec63.png" style="width:400px;height:200px;">![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
+<img src="https://user-images.githubusercontent.com/8848622/194706461-fab0015d-0316-4056-a048-7e07c04fec63.png" style="width:400px;height:200px;">
+![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
 *<img src="https://user-images.githubusercontent.com/8848622/194464069-fd0fdd25-43f5-4d48-9a33-adab86be6c6c.png" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194464087-896a862d-ddeb-4a23-acb6-f87ead86c9d9.png" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194465187-ab6c54fd-4a01-4607-8dff-1c853288a1f7.png" style="width:200px;height:200px;">
@@ -147,9 +152,9 @@ A NoSQL-like document database layer for .NET that works on existing RDBMS like 
     <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debasispaul"/>
     <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debasispaul"/>
 </div>
-<!--div align="center"-->
-    <!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasispaul&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
-<!--/div-->
+<div align="center">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasispaul&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C">
+</div>
 <div align="center">
     <img width="500em" src="https://streak-stats.demolab.com/?user=debasispaul&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"/>
 </div>
