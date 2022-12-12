@@ -12,7 +12,8 @@
 - 💬 and I like making YouTubes https://www.youtube.com/channel/UC6IHMMFvEE4ky01PI0AfDfA
 - 📫 How to reach me: https://www.debasispaul.com/about/ https://sites.google.com/view/debasispaul/
 - 👕 Buy a T-shirt here: https://www.debasispaul.com/
-- ⚡ Fun fact: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. 
+- ⚡ Fun fact: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK.
+- ⚡ Newsletter: https://debasis-newsletter.beehiiv.com/subscribe   
 - 😄 Pronouns: He/Him
 
 ![paul's github stats](https://github-readme-stats.vercel.app/api?username=debasispaul&show_icons=true)
