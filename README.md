@@ -1,18 +1,18 @@
 # Hey friends! 
 
-👋 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. 
+👋 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe).
 
 - 🔭 I’m Debasis Paul
 - 🎬 I'm working on a web application called [ecms.v2](https://) that makes ecommerce management system more discoverable
 - 🎥 I write code live on [Twitch](https://twitch.tv/debasispaul) - tune in, chat, and I'll answer your questions live on video.
-- 🌱 I’ve blogged here for nearly 10 years https://debasispaul.com/blog
+- 🌱 I’ve blogged here for nearly 10 years https://debasispaul.com/blog https://medium.com/@debasispaul
 - 👯 I’ve podcasted here for 15 years https://paulminutes.com
 - 🤔 I’m on Twitter https://twitter.com/thedebasispaul
 - 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@debasispaul">https://mastodon.social/@debasispaul</a>
 - 💬 and I like making YouTubes https://www.youtube.com/channel/UC6IHMMFvEE4ky01PI0AfDfA
-- 📫 How to reach me: https://www.debasispaul.com/about/
+- 📫 How to reach me: https://www.debasispaul.com/about/ https://sites.google.com/view/debasispaul/
 - 👕 Buy a T-shirt here: https://www.debasispaul.com/
-- ⚡ Fun fact: 
+- ⚡ Fun fact: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. 
 - 😄 Pronouns: He/Him
 
 ![paul's github stats](https://github-readme-stats.vercel.app/api?username=debasispaul&show_icons=true)
