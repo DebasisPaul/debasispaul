@@ -1,4 +1,6 @@
-# Hey friends!
+# Hey friends! 
+
+👋 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. 
 
 - 🔭 I’m Debasis Paul
 - 🎬 I'm working on a web application called [ecms.v2](https://) that makes ecommerce management system more discoverable
@@ -15,11 +17,18 @@
 
 ![paul's github stats](https://github-readme-stats.vercel.app/api?username=debasispaul&show_icons=true)
 
+`You can find a list below of what I'm currently focused on:`
+---
+- Love To Build .Net Community
+- Learning .NET WEB, .NET CLOUD, .NET Machine Learning & AI, Microservices with .NET, .NET Desktop Apps, Game Development with .NET, Internet of Things (IoT), .NET Multi-platform App UI, .NET Programming Languages
+- READING .NET Books, Enjoing .NET Videos, .NET COMMUNITY Events.
+- Singing With My Piano
+- Cooking & Cleaning For MySelf
+- Doing dad responsibility for my two cat Ashera & Oliver.
+
 
 
 <!--
-👋 My name is Debasis Paul®™, and I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe), Quote: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. 
-
 ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop")
 <img src="https://user-images.githubusercontent.com/8848622/194464078-42e87bc1-8da4-4ea0-8a80-66ac738a007e.jpg" style="width:300px;height:200px;"> 
 <img src="https://user-images.githubusercontent.com/8848622/194707366-a2b8c4e7-2b6f-4fd3-a1b1-c3c960cbf3c4.svg" style="width:300px;height:200px;">
@@ -36,16 +45,6 @@
 <img src="https://user-images.githubusercontent.com/8848622/194706467-095fc71a-a8a3-41c3-bc06-14f060cd6ac3.png" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194706468-369eb7e3-576d-4b9d-95a3-3063474103b2.jpg" style="width:350px;height:100px;">
 <img src="https://user-images.githubusercontent.com/8848622/194707673-385d408f-80b7-49eb-a912-4d2dac5ccbb9.png" style="width:200px;height:200px;">*
-
-
-`You can find a list below of what I'm currently focused on:`
----
-- Love To Build .Net Community
-- Learning .NET WEB, .NET CLOUD, .NET Machine Learning & AI, Microservices with .NET, .NET Desktop Apps, Game Development with .NET, Internet of Things (IoT), .NET Multi-platform App UI, .NET Programming Languages
-- READING .NET Books, Enjoing .NET Videos, .NET COMMUNITY Events.
-- Singing With My Piano
-- Cooking & Cleaning For MySelf
-- Doing dad responsibility for my two cat Ashera & Oliver.
 
 `When I don't work C# I dabble in different things in .NET such as`
 ---
