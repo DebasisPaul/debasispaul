@@ -5,8 +5,7 @@
 - 🎥 I write code live on [Twitch](https://twitch.tv/debasispaul) - tune in, chat, and I'll answer your questions live on video.
 - 🌱 I’ve blogged here for nearly 10 years https://debasispaul.com/blog https://medium.com/@debasispaul
 - 👯 I’ve podcasted here for 15 years https://paulminutes.com
-- 🤔 I’m on Twitter https://twitter.com/thedebasispaul
-- 🤔 I’m on https://linktr.ee/debasispaul
+- 🤔 I’m on Twitter https://x.com/debasispaul_
 - 🤔 Email me on debasispaul@outlook.in debasispaul@outlook.com
 - 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@debasispaul">https://mastodon.social/@debasispaul</a>
 - 💬 and I like making YouTubes https://www.youtube.com/channel/UC6IHMMFvEE4ky01PI0AfDfA
@@ -28,8 +27,6 @@
 - Doing dad responsibility for my two cat Ashera & Oliver.
 
 
-
-<!--
 ![dotnet bot mic drop](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_mic-drop.png "Dotnet-bot-mic-drop")
 <img src="https://user-images.githubusercontent.com/8848622/194464078-42e87bc1-8da4-4ea0-8a80-66ac738a007e.jpg" style="width:300px;height:200px;"> 
 <img src="https://user-images.githubusercontent.com/8848622/194707366-a2b8c4e7-2b6f-4fd3-a1b1-c3c960cbf3c4.svg" style="width:300px;height:200px;">
@@ -171,4 +168,3 @@ A NoSQL-like document database layer for .NET that works on existing RDBMS like 
 <img src="https://user-images.githubusercontent.com/8848622/194706466-001fb9d9-7581-4949-98a0-5d228145aa33.svg" style="width:300px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194613384-d5c54c8d-9d3d-4f9a-8cda-121e224e694c.svg" style="width:300px;height:200x;"> 
 <img src="https://user-images.githubusercontent.com/8848622/194616265-144ddad9-8c35-4ec2-9e9e-7ba1b4395381.svg" style="width:300px;height:200x;">*
--->
