@@ -14,6 +14,16 @@
 - ⚡ Fun fact: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe).
 - ⚡ Newsletter: https://debasis-newsletter.beehiiv.com/subscribe   
 - 😄 Pronouns: He/Him
+- 🎋 Developer/Architect On .Net @DebasispaulTechnologies
+-:angery: CAT DAD🐈
+=🎋 Building Cool things On @dotnet Technologies.
+-❄️Lots of love for @microsoft on
+@dotnet @blazor @csharp @Azure @aspdotnetcore @maui @visualstudio
+-💘 craft🍻 malt🥃 good☕ fine⌚ @debasispaullearn 👟 🇺🇸❄️ @Seahawks 🏈 @F1 🏎 📺https://instagram.com/debasispaul #BLM 🇺🇸 🧚‍♂️ he/him
+=🎸 Certified Singer by Passion!
+=🎩Founder/CEO @debasispaultechnologies @debasispaullearn @dpit
+=🎓Professor @Aptech
+=🎓Counselor @vub
 
 ![paul's github stats](https://github-readme-stats.vercel.app/api?username=debasispaul&show_icons=true)
 
