@@ -5,7 +5,7 @@
 - 🎥 I write code live on [Twitch](https://twitch.tv/debasispaul) - tune in, chat, and I'll answer your questions live on video.
 - 🌱 I’ve blogged here for nearly 10 years https://debasispaul.com/blog https://medium.com/@debasispaul
 - 👯 I’ve podcasted here for 15 years https://paulminutes.com
-- 🤔 I’m on Twitter https://x.com/debasispaul_
+- 🤔 I’m on x https://x.com/debasispaul_
 - 🤔 Email me on debasispaul@outlook.in debasispaul@outlook.com
 - 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@debasispaul">https://mastodon.social/@debasispaul</a>
 - 💬 and I like making YouTubes https://www.youtube.com/channel/UC6IHMMFvEE4ky01PI0AfDfA
