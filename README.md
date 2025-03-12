@@ -8,7 +8,7 @@
 - 🤔 I’m on x https://x.com/debasispaul_
 - 🤔 Email me on debasispaul@outlook.in debasispaul@outlook.com
 - 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@debasispaul">https://mastodon.social/@debasispaul</a>
-- 💬 and I like making YouTubes https://www.youtube.com/channel/UC6IHMMFvEE4ky01PI0AfDfA
+- 💬 and I like making YouTubes https://www.youtube.com/@idebasispaul
 - 📫 How to reach me: https://www.debasispaul.com/about/ https://sites.google.com/view/debasispaul/
 - 👕 Buy a T-shirt here: https://www.debasispaul.com/
 - ⚡ Fun fact: "A developer is a machine that converts coffee into code", Enjoys hiking, backpacking, climbing, and snowshoeing the great Pacific Northwest when AFK. In my free time, i brews my own beer. F1 fan, Favourite beer: Westmalle Tripel, Rochefort 10, La Chouffe (Achouffe).
