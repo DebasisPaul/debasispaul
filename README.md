@@ -43,14 +43,14 @@
 `MY DAD OLIVER & MOM ASHERA`
 ![](https://user-images.githubusercontent.com/8848622/183581950-173ce07c-5c70-41ea-9907-c950a969e5bb.jpg)
 
-<img src="https://user-images.githubusercontent.com/8848622/194706461-fab0015d-0316-4056-a048-7e07c04fec63.png" style="width:400px;height:200px;">
+<img src="https://user-images.githubusercontent.com/8848622/194706461-fab0015d-0316-4056-a048-7e07c04fec63.png" style="width:200px;height:200px;">
 ![Hello from dotnet bot](https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
 *<img src="https://user-images.githubusercontent.com/8848622/194464069-fd0fdd25-43f5-4d48-9a33-adab86be6c6c.png" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194464087-896a862d-ddeb-4a23-acb6-f87ead86c9d9.png" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194465187-ab6c54fd-4a01-4607-8dff-1c853288a1f7.png" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194706460-198a911e-1a3c-45d9-b06c-ecc61553c798.png" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194706467-095fc71a-a8a3-41c3-bc06-14f060cd6ac3.png" style="width:200px;height:200px;">
-<img src="https://user-images.githubusercontent.com/8848622/194706468-369eb7e3-576d-4b9d-95a3-3063474103b2.jpg" style="width:350px;height:100px;">
+<img src="https://user-images.githubusercontent.com/8848622/194706468-369eb7e3-576d-4b9d-95a3-3063474103b2.jpg" style="width:200px;height:200px;">
 <img src="https://user-images.githubusercontent.com/8848622/194707673-385d408f-80b7-49eb-a912-4d2dac5ccbb9.png" style="width:200px;height:200px;">*
 
 `When I don't work C# I dabble in different things in .NET such as`
@@ -99,7 +99,6 @@ A NoSQL-like document database layer for .NET that works on existing RDBMS like 
 *The idea of the project came to me while working on the first version of Orchard CMS, where we would have to split entities in many tables, which was impacting perf a lot. A CMS usually fits a document based approach, with denormalized data. However using brand new NoSQL databases is often an issue in terms of vendor lock-in, or lack of experience on these systems. RavenDB paved the way in .NET, and I thought we could definitely provide similar features using an RDBMS. Now YesSQL is the standard way to store content in Orchard Core.
 
 ---
-
 ## :wrench:  Skills and Tools
 <div align="center">
 <table>
@@ -148,8 +147,6 @@ A NoSQL-like document database layer for .NET that works on existing RDBMS like 
 </div>
 
 ---
-
-
 ## :computer:  My GitHub Stats
 <div align="center">
     <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debasispaul&theme=github"/>
