@@ -1,7 +1,7 @@
 # Hey friends! 
 
 - 🔭 I’m Debasis Paul. I am a software developer Architect based in BD. Loves building web and cloud apps. Main interests are in .NET web technologies, C#, Microsoft Azure and application performance. I have worked with C# Using C# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit.
-- 🎬 I'm working on a web application called [ecms.v2](https://) that makes ecommerce management system more discoverable
+- 🎬 I'm working on a web application that makes ecommerce management system more discoverable
 - 🎥 I write code live on [Twitch](https://twitch.tv/debasispaul) - tune in, chat, and I'll answer your questions live on video.
 - 🌱 I’ve blogged here for nearly 10 years https://debasispaul.com/blog https://medium.com/@debasispaul
 - 👯 I’ve podcasted here for 15 years https://paulminutes.com
